@@ -1,112 +1,112 @@
 {
   "teacher-services": {
     "src": "/assets/teacher-services-gallery-0.png",
-    "alt": "Teacher services",
-    "description": "I worked on two projects during my time at DfE."
+    "alt": "Access your teaching qualifications",
+    "description": "Redesigning access to teaching qualifications and creating a single sign-in for DfE services."
   },
   "hmrc-paye-account": {
-    "src": "/assets/hmrc-paye-account-gallery-0.png",
-    "alt": "HMRC PAYE account",
-    "description": "The objective was to improve the PAYE tax account service so that users could better self-serve."
+    "src": "/assets/hmrc-paye-account-gallery-2.png",
+    "alt": "New PAYE Account homepage",
+    "description": "Helping people check their tax code, view employment history and manage PAYE online."
   },
   "the-aa": {
-    "src": "/assets/the-aa-gallery-0.png",
-    "alt": "AA business account",
-    "description": "The project’s objective was to replace a problematic sales journey and my account area with a faster, reliable and more user-centred service."
+    "src": "/assets/the-aa-gallery-5.png",
+    "alt": "New responsive site",
+    "description": "Redesigning business breakdown cover, from buying a policy to managing vehicles and renewals."
   },
   "unilever": {
-    "src": "/assets/unilever-gallery-0.jpeg",
-    "alt": "Campaign Wizard",
-    "description": "A key objective for Unilever was to reduce the cost and time-to-market for digital marketing campaigns."
+    "src": "/assets/unilever-gallery-2.png",
+    "alt": "Dashboard",
+    "description": "Designing a campaign-building tool so brand managers could create digital campaigns with less reliance on agencies."
   },
   "merchant-portal": {
     "src": "/assets/merchant-portal-gallery-0.png",
-    "alt": "N-genius portal",
-    "description": "Network International are the largest merchant acquirer and payment solution provider in the Middle East and Africa."
+    "alt": "Dashboard for merchants",
+    "description": "Designing an English and Arabic portal for merchants to manage orders, transactions, invoices and payments."
   },
   "money-claims-service": {
     "src": "/assets/money-claims-service-gallery-0.png",
-    "alt": "Money claims service",
-    "description": "I joined the project during the alpha stage."
+    "alt": "Making a money claim tasklist for claimant",
+    "description": "Designing online journeys to make and respond to money claims, including offers to settle and mediation."
   },
   "gender-pay-gap": {
-    "src": "/assets/gender-pay-gap-gallery-0.png",
-    "alt": "Gender pay gap",
-    "description": "I joined the project during the GDS alpha stage."
+    "src": "/assets/gender-pay-gap-gallery-2.png",
+    "alt": "Viewing service for GPG",
+    "description": "Designing services for employers to report gender pay gaps and for the public to explore the data."
   },
   "my-bt": {
     "src": "/assets/my-bt-gallery-0.png",
-    "alt": "My BT",
-    "description": "The project’s objective was to enable existing BT customers to better self-serve within their account area."
+    "alt": "My BT homepage prototype",
+    "description": "Redesigning My BT so customers could manage packages, upgrade products and pay bills online."
   },
   "agent-online-self-serve": {
-    "src": "/assets/agent-online-self-serve-gallery-0.png",
-    "alt": "Agent Online Self Serve",
-    "description": "The aim of the Agent Online Self-Serve (AOSS) was to improve the online services for tax agents and also to reduce the reliance on HMRC’s agent contact centre."
+    "src": "/assets/agent-online-self-serve-gallery-1.png",
+    "alt": "Dasboard for agent",
+    "description": "Replacing paper authorisation with a digital journey for tax agents to represent clients and manage their tax affairs."
   },
   "your-tax-account": {
     "src": "/assets/your-tax-account-gallery-0.png",
-    "alt": "Your Tax Account",
-    "description": "The purpose for Your Tax Account (YTA) was to make the management and payment of taxes accessible to everybody, not just accountants."
+    "alt": "Your tax account homepage",
+    "description": "Designing an account overview to help people understand their taxes, manage deadlines and make payments."
   },
   "trusted-trader": {
     "src": "/assets/trusted-trader-gallery-0.png",
-    "alt": "Trusted trader",
-    "description": "People are turning to sites like Check-a-trade and My Builder to find peer reviewed tradesmen in their area."
+    "alt": "Montage of work",
+    "description": "Designing journeys for people to find and contact tradespeople, and for traders to register and build their profiles."
   },
   "product-reviews": {
-    "src": "/assets/product-reviews-gallery-0.png",
-    "alt": "Product reviews",
-    "description": "The TV reviews project was Which’s first step of their responsive site redesign & re-architecture program."
+    "src": "/assets/product-reviews-gallery-2.png",
+    "alt": "Prototype of reviews",
+    "description": "Redesigning product search, filtering and reviews for the responsive Which? website."
   },
   "radio-times-ipad-app": {
-    "src": "/assets/radio-times-ipad-app-gallery-0.png",
-    "alt": "Radio Times iPad app",
-    "description": "This was Radio times’ first foray into the world of apps."
+    "src": "/assets/radio-times-ipad-app-gallery-4.png",
+    "alt": "Radio times Axure prototype",
+    "description": "Leading UX for the Radio Times iPad app, from audience research to programme listings and tested prototypes."
   },
   "bq": {
-    "src": "/assets/bq-gallery-0.png",
-    "alt": "B&Q",
-    "description": "I was involved with B&Q’s site redesign from the concept phase right through to production."
+    "src": "/assets/bq-gallery-3.png",
+    "alt": "Technical wireframes",
+    "description": "Designing navigation, product pages and checkout for B&Q’s responsive shopping and inspiration website."
   },
   "barclaycard": {
     "src": "/assets/barclaycard-gallery-0.png",
-    "alt": "Barclaycard",
-    "description": "My principle project on the Barclaycard account was the redesign their customer account homepage."
+    "alt": "Barclaycard dashboard wires",
+    "description": "Redesigning the credit card account overview and helping customers report suspicious transactions."
   },
   "tagcmd": {
-    "src": "/assets/tagcmd-gallery-0.png",
-    "alt": "TAG:CMD",
-    "description": "Tag:CMD is a tool that agencies and their clients use to collaborate online on creative work in progress, from TV commercials to web banners and print pieces."
+    "src": "/assets/tagcmd-gallery-1.png",
+    "alt": "Comments UI",
+    "description": "Designing tools for agencies and clients to review creative work, leave feedback and manage production billing."
   },
   "tapp-iphone-ipad-app": {
-    "src": "/assets/tapp-iphone-ipad-app-gallery-0.png",
-    "alt": "TAPP iPhone & iPad app",
-    "description": "The TAPP approvals app for iPhone and iPad compliments the Tag:CMD web application by providing agencies with the ability to approve marketing work on the go."
+    "src": "/assets/tapp-iphone-ipad-app-gallery-5.png",
+    "alt": "Approve an image on the go",
+    "description": "Designing iPhone and iPad workflows for reviewing and approving creative work on the move."
   },
   "android-iphone-apps": {
     "src": "/assets/android-iphone-apps-gallery-0.png",
-    "alt": "Android & iPhone apps",
-    "description": "Following the release of the iPad app, Rightmove brought app development in-house."
+    "alt": "iPhone search result",
+    "description": "Designing Rightmove’s iPhone and Android apps with local search, property details and saved-search alerts."
   },
   "property-details-page": {
     "src": "/assets/property-details-page-gallery-0.png",
-    "alt": "Property details page",
-    "description": "The property details redesign was always going to be a challenging project as we needed to meet the needs of the buyer, vendor, estate agent and of course Rightmove itself."
+    "alt": "Larger photos and a image carousel was introduced",
+    "description": "Redesigning property details with larger photos, interactive floorplans and local information to support enquiries."
   },
   "ipad-app": {
     "src": "/assets/ipad-app-gallery-0.png",
-    "alt": "iPad app",
-    "description": "The iPad app was Rightmove’s first venture into mobile apps."
+    "alt": "Ipad search results page",
+    "description": "Designing Rightmove’s first iPad app with map search, browsable property listings and detailed floorplans."
   },
   "draw-a-search": {
     "src": "/assets/draw-a-search-gallery-0.jpg",
-    "alt": "Draw a search",
-    "description": "During a Rightmove hack-week our small team developed the idea of drawing property searches on a map."
+    "alt": "Draw your search on a map",
+    "description": "Turning a hack-week idea into a property search tool that lets people draw their preferred area on a map."
   },
   "homepage-redesign": {
     "src": "/assets/homepage-redesign-gallery-0.png",
-    "alt": "Homepage redesign",
-    "description": "My role at Lastminute.com was as a visual and front-end designer."
+    "alt": "Home page redesign",
+    "description": "Redesigning lastminute.com’s homepage and navigation to make travel search clearer and reduce visual clutter."
   }
 }
