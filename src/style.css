@@ -87,3 +87,5 @@ a,.rt-Link,.project-card>.rt-Text:last-child,.case-gallery .gallery-item .screen
 .project-the-aa .project-preview .card-art img,.project-bq .project-preview .card-art img,.project-trusted-trader .project-preview .card-art img,.project-tapp-iphone-ipad-app .project-preview .card-art img,.project-android-iphone-apps .project-preview .card-art img,.project-ipad-app .project-preview .card-art img{object-fit:contain;object-position:center}
 
 .organisations{grid-template-columns:repeat(7,minmax(0,1fr));column-gap:18px}.organisation-bt .organisation-logo{width:48px;height:48px}@media(max-width:800px){.organisations{grid-template-columns:repeat(4,minmax(0,1fr))}}@media(max-width:480px){.organisations{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+.organisations{grid-template-columns:repeat(8,minmax(0,1fr));column-gap:14px}.organisation-bq .organisation-logo{width:46px;height:46px}@media(max-width:900px){.organisations{grid-template-columns:repeat(4,minmax(0,1fr))}}@media(max-width:480px){.organisations{grid-template-columns:repeat(2,minmax(0,1fr))}}
