@@ -169,5 +169,48 @@
         "title": "Screen Recording 2026-01-30 at 11.55.54"
       }
     ]
+  },
+  "ipaffs": {
+    "title": "IPAFFS",
+    "org": "DEFRA",
+    "role": "Lead Interaction designer",
+    "date": "Sep 2024 – Mar 2025",
+    "deliverables": "Interaction design, Service design and interactive prototypes",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "Overview",
+        "html": "<p>At DEFRA, I was the <strong>Lead Interaction Designer</strong> on <strong>IPAFFS (Import of Products, Animals, Food and Feed System)</strong> — the UK government service used to notify imports of regulated goods and live animals entering Great Britain.</p><p>My work focused on <strong>redesigning the CHED-A live animal import journey</strong>, reducing complexity in a high-risk, highly regulated process. Alongside a content designer we improved content clarity, simplified complex form interactions, and helped users understand <strong>what was required, when, and why</strong>. This included introducing clearer progress tracking, improving error handling, and supporting new online inspection fee payments — all designed and tested using <strong>GOV.UK design patterns</strong>.</p><p>The outcome was a simplified end-to-end journey that reduced user error in a high-risk import process by making complex regulatory requirements easier to understand and less onerous to complete.</p>"
+      },
+      {
+        "id": "delivered",
+        "title": "What was delivered",
+        "html": "<ul>\n<li>\n<p><strong>Redesigned the CHED-A live animal import journey</strong>, reducing unnecessary steps and simplifying complex interactions such as commodity code selection</p>\n</li>\n<li>\n<p><strong>Introduced a notification hub</strong>, using the GOV.UK checklist pattern to help users track progress, save work, and return later with confidence</p>\n</li>\n<li>\n<p><strong>Designed a new payment journey</strong> to support online inspection fee payments within IPAFFS</p>\n</li>\n<li>\n<p><strong>Rebuilt the full IPAFFS prototype in Figma</strong>, using the GOV.UK prototyping toolkit to replace legacy Axure wireframes</p>\n</li>\n<li>\n<p><strong>Created a single, end-to-end testable prototype</strong>, enabling usability testing, service-wide gap analysis, and clearer stakeholder alignment</p>\n</li>\n</ul>"
+      }
+    ],
+    "images": [
+      {
+        "src": "/assets/ipaffs-gallery-0.png",
+        "caption": "Mapping the IPAFFS service"
+      },
+      {
+        "src": "/assets/ipaffs-gallery-1.png",
+        "caption": "IPAFFS notification hub"
+      },
+      {
+        "src": "/assets/ipaffs-gallery-2.png",
+        "caption": "Easier way to add commodity codes"
+      },
+      {
+        "src": "/assets/ipaffs-gallery-3.png",
+        "caption": "Journey map CHED A"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://player.vimeo.com/video/1073554869?dnt=1&app_id=122963",
+        "title": "IPAFFS"
+      }
+    ]
   }
 }

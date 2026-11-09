@@ -8,4 +8,4 @@ await writeFile('dist/index.html',html('Tarik Johnston — Interaction & UX desi
 await mkdir('dist/project/btms',{recursive:true});
 await writeFile('dist/project/btms/index.html',html('Border Trade Matching Service — Tarik Johnston'));
 
-for(const [slug,title] of [['s1-entitlement','S1 Entitlement'],['generation-study','Generation study']]){await mkdir('dist/project/'+slug,{recursive:true});await writeFile('dist/project/'+slug+'/index.html',html(title+' — Tarik Johnston'));}
+for(const [slug,title] of [['ipaffs','IPAFFS'],['s1-entitlement','S1 Entitlement'],['generation-study','Generation study']]){await mkdir('dist/project/'+slug,{recursive:true});await writeFile('dist/project/'+slug+'/index.html',html(title+' — Tarik Johnston'));}
