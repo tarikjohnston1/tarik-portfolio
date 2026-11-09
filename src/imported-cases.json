@@ -1,0 +1,130 @@
+{
+  "s1-entitlement": {
+    "title": "S1 Entitlement",
+    "org": "NHS – Business Services Authority",
+    "role": "Senior product designer",
+    "date": "Apr 2024 – Sept 2024",
+    "deliverables": "Design, Service blueprint, problem framing workshops and interactive prototypes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "\n<p>The S1 entitlement allows UK pensioners and their dependants to access healthcare in EU countries, with the UK government covering treatment costs. However, the previous application process was manual and time-consuming—requiring users to apply by phone, submit documents by post, and wait for confirmation.</p>\n<p>My role was to design a digital service that would streamline this process, making it easier for users to apply for and access their S1 certificate online, and reducing administrative burden on the NHS.</p>\n<p>In addition, I designed a journey for internal <strong>Cost Recovery</strong> teams to log and reclaim NHS treatment costs for EU citizens receiving care in the UK.</p>\n"
+      },
+      {
+        "id": "section-3",
+        "title": "What was delivered",
+        "html": "\n<p>During discovery, I worked with a Business Analyst to map the current offline process and capture all caseworker interactions. This informed a detailed <strong>service design blueprint</strong> that structured the new digital journey, ensuring consistency with existing admin workflows.</p>\n<p>I then designed and prototyped three linked services using the <strong>GOV.UK Design System</strong>:</p>\n<ol>\n<li><strong>S1 application</strong> – a guided, eligibility-based journey to apply for S1 certification</li>\n<li><strong>Evidence upload</strong> – allowing users to submit supporting documents</li>\n<li><strong>Certificate download</strong> – enabling successful applicants to access their S1 digitally</li>\n</ol>\n<p>I also developed an internal <strong>cost recovery flow</strong>, enabling NHS staff to record medical expenses for EU visitors—helping to reclaim funds from EU member states.</p>\n<p>All services were tested with UK pensioners. Insights from usability testing led to several content and interaction improvements before final delivery.</p>\n\n\n"
+      },
+      {
+        "id": "section-5",
+        "title": "Deliverables included",
+        "html": "\n<ul>\n<li>Service design blueprint mapping the full S1 entitlement process</li>\n<li>Problem framing workshops to align stakeholders and define user needs</li>\n<li>Interactive prototypes for S1 application, document upload, and certificate download</li>\n<li>Internal cost recovery journey for NHS staff</li>\n</ul>"
+      }
+    ],
+    "images": [
+      {
+        "src": "/assets/nhs-gallery-0.png",
+        "caption": "screencapture-s1-online-04e2fa69a84d-herokuapp-v2-upload-upload-files-2024-09-12-14_16_26"
+      },
+      {
+        "src": "/assets/nhs-gallery-1.png",
+        "caption": "Adding dependants"
+      },
+      {
+        "src": "/assets/nhs-gallery-2.png",
+        "caption": "Admin screen to cost recovery"
+      },
+      {
+        "src": "/assets/nhs-gallery-3.jpg",
+        "caption": "Final version of S1 service"
+      },
+      {
+        "src": "/assets/nhs-gallery-4.jpg",
+        "caption": "Kick off workshop for evidence"
+      },
+      {
+        "src": "/assets/nhs-gallery-5.jpg",
+        "caption": "Crew 1 - SD - Apply for an S1 service Blueprint - draft 1"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://player.vimeo.com/video/1008881598?dnt=1&app_id=122963",
+        "title": "Apply for an S1 certificate"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1008881723?dnt=1&app_id=122963",
+        "title": "Download an S1 certificate"
+      },
+      {
+        "src": "https://player.vimeo.com/video/1008881810?dnt=1&app_id=122963",
+        "title": "Upload evidence for S1 certificate"
+      }
+    ]
+  },
+  "generation-study": {
+    "title": "Generation study",
+    "org": "Genomics England",
+    "role": "Senior product designer",
+    "date": "Apr 2023 – Apr 2024",
+    "deliverables": "User journey mapping, problem framing workshop and visual designs",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "\n<p>The aim of Genomics England’s Generation Study is to identify rare genetic conditions in newborn babies by sequencing and analysing their genomes. The study could lead to earlier diagnoses, improved outcomes, and better quality of life for babies and their families.</p>\n<p>My role was to design the <strong>Generation Study website</strong>—a platform where expectant parents could learn about the study and register their interest.</p>\n\n"
+      },
+      {
+        "id": "section-3",
+        "title": "What was delivered",
+        "html": "\n<p>Working alongside a content designer, I mapped out the user journey using insights from the discovery phase and a set of testable hypotheses. This led to the creation of low-fidelity wireframes that defined the site’s structure, navigation, key features, and interactions.</p>\n<p>To support different user needs, we developed a content strategy using the <strong>paddle, swim, and dive</strong> model—offering varying levels of detail depending on how much users wanted to engage at each stage. This allowed the site to work for users wanting a quick overview, as well as those needing in-depth information before registering.</p>\n<p>Using these wireframes, I designed the site in <strong>Figma</strong>, ensuring it was responsive across mobile, tablet, and desktop.</p>\n<p>I also collaborated with the Genomics England brand team to create a tailored <strong>design system</strong>. This system balanced the organisation’s existing brand guidelines with new components and styling specific to the Generation Study, ensuring consistency during development.</p>\n<p>We ran multiple usability testing sessions with prospective parents, iterating on the design based on feedback. The final prototypes were then handed over for development.</p>\n\n"
+      },
+      {
+        "id": "section-5",
+        "title": "Outputs included ",
+        "html": "\n<ul>\n<li>\n<p>Responsive website designs across mobile, tablet, and desktop</p>\n</li>\n<li>\n<p>A bespoke <strong>Generation Study design system</strong> (colours, typography, components, navigation)</p>\n</li>\n<li>\n<p>Clickable <strong>Figma prototypes</strong> used for user testing and handoff</p>\n</li>\n<li>\n<p>Journey maps and interaction flows based on real user needs and behaviours</p>\n</li>\n</ul>"
+      }
+    ],
+    "images": [
+      {
+        "src": "/assets/genomics-gallery-0.png",
+        "caption": "1 Wireframe content mapping"
+      },
+      {
+        "src": "/assets/genomics-gallery-1.png",
+        "caption": "2 Design system"
+      },
+      {
+        "src": "/assets/genomics-gallery-2.png",
+        "caption": "3 Grids and breakpoints"
+      },
+      {
+        "src": "/assets/genomics-gallery-3.png",
+        "caption": "4 Homepage desktop"
+      },
+      {
+        "src": "/assets/genomics-gallery-4.png",
+        "caption": "5 overview"
+      },
+      {
+        "src": "/assets/genomics-gallery-5.png",
+        "caption": "6 Register interest"
+      },
+      {
+        "src": "/assets/genomics-gallery-6.png",
+        "caption": "7 Viewing conditions mobile"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://player.vimeo.com/video/864760408?dnt=1&app_id=122963",
+        "title": "Desktop version"
+      },
+      {
+        "src": "https://player.vimeo.com/video/864760515?dnt=1&app_id=122963",
+        "title": "Mobile version"
+      }
+    ]
+  }
+}
