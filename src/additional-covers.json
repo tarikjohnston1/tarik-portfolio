@@ -1,111 +1,111 @@
 {
   "teacher-services": {
-    "src": "/assets/teacher-services-cover.jpg",
+    "src": "/assets/teacher-services-gallery-0.png",
     "alt": "Teacher services",
     "description": "I worked on two projects during my time at DfE."
   },
   "hmrc-paye-account": {
-    "src": "/assets/hmrc-paye-account-cover.jpg",
+    "src": "/assets/hmrc-paye-account-gallery-0.png",
     "alt": "HMRC PAYE account",
     "description": "The objective was to improve the PAYE tax account service so that users could better self-serve."
   },
   "the-aa": {
-    "src": "/assets/the-aa-cover.png",
+    "src": "/assets/the-aa-gallery-0.png",
     "alt": "AA business account",
     "description": "The project’s objective was to replace a problematic sales journey and my account area with a faster, reliable and more user-centred service."
   },
   "unilever": {
-    "src": "/assets/unilever-cover.png",
+    "src": "/assets/unilever-gallery-0.jpeg",
     "alt": "Campaign Wizard",
     "description": "A key objective for Unilever was to reduce the cost and time-to-market for digital marketing campaigns."
   },
   "merchant-portal": {
-    "src": "/assets/merchant-portal-cover.png",
+    "src": "/assets/merchant-portal-gallery-0.png",
     "alt": "N-genius portal",
     "description": "Network International are the largest merchant acquirer and payment solution provider in the Middle East and Africa."
   },
   "money-claims-service": {
-    "src": "/assets/money-claims-service-cover.png",
+    "src": "/assets/money-claims-service-gallery-0.png",
     "alt": "Money claims service",
     "description": "I joined the project during the alpha stage."
   },
   "gender-pay-gap": {
-    "src": "/assets/gender-pay-gap-cover.jpg",
+    "src": "/assets/gender-pay-gap-gallery-0.png",
     "alt": "Gender pay gap",
     "description": "I joined the project during the GDS alpha stage."
   },
   "my-bt": {
-    "src": "/assets/my-bt-cover.png",
+    "src": "/assets/my-bt-gallery-0.png",
     "alt": "My BT",
     "description": "The project’s objective was to enable existing BT customers to better self-serve within their account area."
   },
   "agent-online-self-serve": {
-    "src": "/assets/agent-online-self-serve-cover.png",
+    "src": "/assets/agent-online-self-serve-gallery-0.png",
     "alt": "Agent Online Self Serve",
     "description": "The aim of the Agent Online Self-Serve (AOSS) was to improve the online services for tax agents and also to reduce the reliance on HMRC’s agent contact centre."
   },
   "your-tax-account": {
-    "src": "/assets/your-tax-account-cover.png",
+    "src": "/assets/your-tax-account-gallery-0.png",
     "alt": "Your Tax Account",
     "description": "The purpose for Your Tax Account (YTA) was to make the management and payment of taxes accessible to everybody, not just accountants."
   },
   "trusted-trader": {
-    "src": "/assets/trusted-trader-cover.png",
+    "src": "/assets/trusted-trader-gallery-0.png",
     "alt": "Trusted trader",
     "description": "People are turning to sites like Check-a-trade and My Builder to find peer reviewed tradesmen in their area."
   },
   "product-reviews": {
-    "src": "/assets/product-reviews-cover.png",
+    "src": "/assets/product-reviews-gallery-0.png",
     "alt": "Product reviews",
     "description": "The TV reviews project was Which’s first step of their responsive site redesign & re-architecture program."
   },
   "radio-times-ipad-app": {
-    "src": "/assets/radio-times-ipad-app-cover.png",
+    "src": "/assets/radio-times-ipad-app-gallery-0.png",
     "alt": "Radio Times iPad app",
     "description": "This was Radio times’ first foray into the world of apps."
   },
   "bq": {
-    "src": "/assets/bq-cover.png",
+    "src": "/assets/bq-gallery-0.png",
     "alt": "B&Q",
     "description": "I was involved with B&Q’s site redesign from the concept phase right through to production."
   },
   "barclaycard": {
-    "src": "/assets/barclaycard-cover.png",
+    "src": "/assets/barclaycard-gallery-0.png",
     "alt": "Barclaycard",
     "description": "My principle project on the Barclaycard account was the redesign their customer account homepage."
   },
   "tagcmd": {
-    "src": "/assets/tagcmd-cover.png",
+    "src": "/assets/tagcmd-gallery-0.png",
     "alt": "TAG:CMD",
     "description": "Tag:CMD is a tool that agencies and their clients use to collaborate online on creative work in progress, from TV commercials to web banners and print pieces."
   },
   "tapp-iphone-ipad-app": {
-    "src": "/assets/tapp-iphone-ipad-app-cover.png",
+    "src": "/assets/tapp-iphone-ipad-app-gallery-0.png",
     "alt": "TAPP iPhone & iPad app",
     "description": "The TAPP approvals app for iPhone and iPad compliments the Tag:CMD web application by providing agencies with the ability to approve marketing work on the go."
   },
   "android-iphone-apps": {
-    "src": "/assets/android-iphone-apps-cover.png",
+    "src": "/assets/android-iphone-apps-gallery-0.png",
     "alt": "Android & iPhone apps",
     "description": "Following the release of the iPad app, Rightmove brought app development in-house."
   },
   "property-details-page": {
-    "src": "/assets/property-details-page-cover.png",
+    "src": "/assets/property-details-page-gallery-0.png",
     "alt": "Property details page",
     "description": "The property details redesign was always going to be a challenging project as we needed to meet the needs of the buyer, vendor, estate agent and of course Rightmove itself."
   },
   "ipad-app": {
-    "src": "/assets/ipad-app-cover.png",
+    "src": "/assets/ipad-app-gallery-0.png",
     "alt": "iPad app",
     "description": "The iPad app was Rightmove’s first venture into mobile apps."
   },
   "draw-a-search": {
-    "src": "/assets/draw-a-search-cover.png",
+    "src": "/assets/draw-a-search-gallery-0.jpg",
     "alt": "Draw a search",
     "description": "During a Rightmove hack-week our small team developed the idea of drawing property searches on a map."
   },
   "homepage-redesign": {
-    "src": "/assets/homepage-redesign-cover.png",
+    "src": "/assets/homepage-redesign-gallery-0.png",
     "alt": "Homepage redesign",
     "description": "My role at Lastminute.com was as a visual and front-end designer."
   }
