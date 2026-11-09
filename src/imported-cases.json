@@ -204,6 +204,10 @@
       {
         "src": "/assets/ipaffs-gallery-3.png",
         "caption": "Journey map CHED A"
+      },
+      {
+        "src": "/assets/ipaffs-dashboard.png",
+        "caption": "IPAFFS dashboard"
       }
     ],
     "videos": [
