@@ -2,7 +2,7 @@
   "teacher-services": {
     "src": "/assets/teacher-services-cover.jpg",
     "alt": "Teacher services",
-    "description": "I worked on two projects during my time at DfE.\nThe first was the redesign of the Teacher Self-Service Portal, a platform that allows teachers to view and download their qualification certificates, check their teaching status, and update personal details.\nThe second was the development of the DfE Identity Account, a single sign-on solution to securely verify user identity and provide access to multiple DfE services under one account.."
+    "description": "I worked on two projects during my time at DfE."
   },
   "hmrc-paye-account": {
     "src": "/assets/hmrc-paye-account-cover.jpg",
@@ -12,7 +12,7 @@
   "the-aa": {
     "src": "/assets/the-aa-cover.png",
     "alt": "AA business account",
-    "description": "The project’s objective was to replace a problematic sales journey and my account area with a faster, reliable and more user-centred service.\nOn purchasing business breakdown cover, customers are prompted to create an online business breakdown account for the purpose of registering their vehicles against their policy."
+    "description": "The project’s objective was to replace a problematic sales journey and my account area with a faster, reliable and more user-centred service."
   },
   "unilever": {
     "src": "/assets/unilever-cover.png",
@@ -42,7 +42,7 @@
   "agent-online-self-serve": {
     "src": "/assets/agent-online-self-serve-cover.png",
     "alt": "Agent Online Self Serve",
-    "description": "The aim of the Agent Online Self-Serve (AOSS) was to improve the online services for tax agents and also to reduce the reliance on HMRC’s agent contact centre.\nI spent the project’s discovery phase visiting small to large accountancy firms to understand their ways of working and identify their specific HMRC needs."
+    "description": "The aim of the Agent Online Self-Serve (AOSS) was to improve the online services for tax agents and also to reduce the reliance on HMRC’s agent contact centre."
   },
   "your-tax-account": {
     "src": "/assets/your-tax-account-cover.png",
@@ -67,7 +67,7 @@
   "bq": {
     "src": "/assets/bq-cover.png",
     "alt": "B&Q",
-    "description": "I was involved with B&Q’s site redesign from the concept phase right through to production. We delivered a responsive website that achieved the dual aims of selling B&Q’s DIY products and also appealing to non-DIY customers base, by focusing on the new areas of lifestyle and inspiration."
+    "description": "I was involved with B&Q’s site redesign from the concept phase right through to production."
   },
   "barclaycard": {
     "src": "/assets/barclaycard-cover.png",
@@ -82,7 +82,7 @@
   "tapp-iphone-ipad-app": {
     "src": "/assets/tapp-iphone-ipad-app-cover.png",
     "alt": "TAPP iPhone & iPad app",
-    "description": "The TAPP approvals app for iPhone and iPad compliments the Tag:CMD web application by providing agencies with the ability to approve marketing work on the go.\nMy role as lead UX was to produce the annotated wireframes and the visual designs."
+    "description": "The TAPP approvals app for iPhone and iPad compliments the Tag:CMD web application by providing agencies with the ability to approve marketing work on the go."
   },
   "android-iphone-apps": {
     "src": "/assets/android-iphone-apps-cover.png",
