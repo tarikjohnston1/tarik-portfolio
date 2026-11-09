@@ -68,3 +68,4 @@ a,.rt-Link,.project-card>.rt-Text:last-child,.case-gallery .gallery-item .screen
 /* Consistent homepage headings and introduction text. */
 .intro .hero-title,.organisations>.eyebrow,.work h2{font-family:'DM Sans',Arial,sans-serif;font-size:var(--type-section);font-weight:500;line-height:1.25;letter-spacing:-.025em;text-transform:none}
 .intro .intro-lead{display:inline;font-size:inherit;line-height:inherit;font-weight:inherit;color:inherit;margin:0}
+.intro .hero-title,.organisations>.eyebrow,.work h2{font-family:'DM Sans',Arial,sans-serif!important;color:var(--gray-12)}
