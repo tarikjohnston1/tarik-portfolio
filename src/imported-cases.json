@@ -89,31 +89,31 @@
     "images": [
       {
         "src": "/assets/genomics-gallery-0.png",
-        "caption": "1 Wireframe content mapping"
+        "caption": "Wireframe content mapping"
       },
       {
         "src": "/assets/genomics-gallery-1.png",
-        "caption": "2 Design system"
+        "caption": "Design system"
       },
       {
         "src": "/assets/genomics-gallery-2.png",
-        "caption": "3 Grids and breakpoints"
+        "caption": "Grids and breakpoints"
       },
       {
         "src": "/assets/genomics-gallery-3.png",
-        "caption": "4 Homepage desktop"
+        "caption": "Homepage desktop"
       },
       {
         "src": "/assets/genomics-gallery-4.png",
-        "caption": "5 overview"
+        "caption": "overview"
       },
       {
         "src": "/assets/genomics-gallery-5.png",
-        "caption": "6 Register interest"
+        "caption": "Register interest"
       },
       {
         "src": "/assets/genomics-gallery-6.png",
-        "caption": "7 Viewing conditions mobile"
+        "caption": "Viewing conditions mobile"
       }
     ],
     "videos": [
