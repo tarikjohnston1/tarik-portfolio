@@ -126,5 +126,48 @@
         "title": "Mobile version"
       }
     ]
+  },
+  "btms": {
+    "title": "Border Trade Matching Service (BTMS)",
+    "org": "DEFRA",
+    "role": "Lead Interaction designer",
+    "date": "Mar 2025 – Jan 2026",
+    "deliverables": "Interaction and service design. Interactive prototypes",
+    "sections": [
+      {
+        "id": "overview",
+        "title": "Overview",
+        "html": "<p>At DEFRA, I was the <strong>Lead Interaction Designer</strong> on the <strong>Border Trade Matching Service (BTMS)</strong> — a new internal service designed to replace a legacy system and support border and operational staff in making accurate, time-critical decisions on goods entering the UK from the EU and rest of world.</p><p>BTMS provides a <strong>search-led interface</strong> that allows users to find consignments using a range of reference numbers and view matched data from <strong>HMRC’s Customs Declaration Service (CDS)</strong> and <strong>IPAFFS</strong> in one place. This enables staff to quickly identify mismatches, understand why goods may be held, and enable staff to resolve issues to keep the border flowing.</p><p>The outcome was a service that made it easier for border teams to identify issues, understand what had happened, and take the right action. </p>"
+      },
+      {
+        "id": "delivered",
+        "title": "What was delivered",
+        "html": "<ul>\n<li>Designed a <strong>search-led service</strong> allowing users to find consignments using multiple reference types</li>\n<li>Created <strong>clear, scannable results views</strong> that bring together matched CDS and IPAFFS data in a single interface</li>\n<li>Designed a <strong>consignment timeline</strong> to show key events, decisions, and status changes over time</li>\n<li>Introduced <strong>visual indicators and filters</strong> to help users quickly identify discrepancies and prioritise action</li>\n<li>Designed the <strong>BTMS reporting service</strong>, using visual graphs to show trends and operational data over time</li>\n<li>Improved <strong>system messaging and error clarity</strong> to support faster issue resolution</li>\n<li>Ensured <strong>accessibility and GOV.UK compliance</strong>, applying WCAG-aligned patterns and accessible data visualisation throughout</li>\n</ul>"
+      }
+    ],
+    "images": [
+      {
+        "src": "/assets/btms-gallery-0.png",
+        "caption": "search results showing a problem"
+      },
+      {
+        "src": "/assets/btms-gallery-1.png",
+        "caption": "search by different consignment references"
+      },
+      {
+        "src": "/assets/btms-gallery-2.png",
+        "caption": "reporting data"
+      },
+      {
+        "src": "/assets/btms-gallery-3.png",
+        "caption": "consignment timeline"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://player.vimeo.com/video/1160168063?dnt=1&app_id=122963",
+        "title": "Screen Recording 2026-01-30 at 11.55.54"
+      }
+    ]
   }
 }
