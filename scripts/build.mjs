@@ -9,3 +9,6 @@ await mkdir('dist/project/btms',{recursive:true});
 await writeFile('dist/project/btms/index.html',html('Border Trade Matching Service — Tarik Johnston'));
 
 for(const [slug,title] of [['ipaffs','IPAFFS'],['s1-entitlement','S1 Entitlement'],['generation-study','Generation study']]){await mkdir('dist/project/'+slug,{recursive:true});await writeFile('dist/project/'+slug+'/index.html',html(title+' — Tarik Johnston'));}
+
+const extra=JSON.parse(await (await import('node:fs/promises')).readFile('src/additional-cases.json','utf8'));
+for(const [slug,project] of Object.entries(extra)){await mkdir('dist/project/'+slug,{recursive:true});await writeFile('dist/project/'+slug+'/index.html',html(project.title+' — Tarik Johnston'));}

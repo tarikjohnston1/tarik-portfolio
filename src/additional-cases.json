@@ -1,0 +1,912 @@
+{
+  "teacher-services": {
+    "title": "Teacher services",
+    "org": "DfE",
+    "role": "UX lead",
+    "date": "Jun 2022 – Apr 2023",
+    "deliverables": "Service blueprints, User journey mapping, problem framing workshop and prototypes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>I worked on two projects during my time at DfE.</p>\n<p>The first was the redesign of the <strong>Teacher Self-Service Portal</strong>, a platform that allows teachers to view and download their qualification certificates, check their teaching status, and update personal details.</p>\n<p>The second was the development of the <strong>DfE Identity Account</strong>, a single sign-on solution to securely verify user identity and provide access to multiple DfE services under one account.</p>\n<p><span></span></p>"
+      },
+      {
+        "id": "section-2",
+        "title": "What was delivered",
+        "html": "<p><strong>Project 1 – Access your teaching qualification service</strong><br /><em>(formerly Teacher Self-Service Portal)</em></p>\n<p>Before beginning the redesign, we conducted user research sessions with teachers to understand how they used the existing service and what their core needs were. This helped us identify key user tasks and highlight limitations in the legacy system.</p>\n<p>Using the GOV.UK Design System, I designed and prototyped the new service, ensuring it was accessible, tested, and aligned with user expectations. Based on the research insights, we removed outdated features and focused on what mattered most—quick and easy access to teaching certificates. We introduced the ability to print and download certificates and added functionality for teachers to update personal details such as their name, a task that previously required contacting support—reducing the burden on DfE’s helpdesk.</p>\n<p><strong>Project 2 – DfE Identity account service</strong></p>\n<p>The goal of the DfE Identity Account was to simplify and secure access to DfE services by replacing multiple login systems with a single identity solution. This meant teachers no longer needed to manage several usernames and passwords across different platforms.</p>\n<p>To support this, I created detailed journey maps and service blueprints that illustrated how the Identity Account would integrate across multiple DfE teacher services. These artefacts also defined the data points required to verify a teacher’s identity—ensuring the solution was secure, easy to use, and scalable.</p>\n<p>When registering for a DfE account to access a service, teachers were asked to provide key data points—name, date of birth, National Insurance number, and Teacher Reference Number—which were matched against existing DfE records. Once verified, a DfE Identity Account was created, giving them secure, streamlined access to multiple services.</p>\n<p>The solution improved overall security, reduced the risk of duplicate or fraudulent accounts, and provided a much smoother login experience. After setup, users could access any DfE service using just their email address and a one-time password.</p>\n<p>A prototype of the service was built to test with users and understand how easy or difficult it was to complete key tasks. The insights gathered during user research helped us identify pain points and improve the overall experience.</p>\n<p>\n<p><span></span></p>\n<p><span></span></p>"
+      },
+      {
+        "id": "section-3",
+        "title": "Outputs include",
+        "html": "<ul>\n<li>\n<p>A working prototype of the DfE Identity Account for testing and development</p>\n</li>\n<li>\n<p>Journey maps showing user flows and service integration points</p>\n</li>\n</ul>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Access your teaching qualifications",
+        "src": "/assets/teacher-services-gallery-0.png"
+      },
+      {
+        "caption": "Dfe identity account",
+        "src": "/assets/teacher-services-gallery-1.png"
+      },
+      {
+        "caption": "Mapping of service integration",
+        "src": "/assets/teacher-services-gallery-2.png"
+      }
+    ],
+    "videos": [
+      {
+        "src": "https://player.vimeo.com/video/809838131?dnt=1&app_id=122963",
+        "title": "Teacher services walkthrough"
+      }
+    ],
+    "source": "https://electronicpixelspace.com/project/teacher-services/"
+  },
+  "hmrc-paye-account": {
+    "title": "HMRC PAYE account",
+    "org": "HMRC",
+    "role": "Lead Interaction designer",
+    "date": "Jan 2022 – Jun 2022",
+    "deliverables": "User research, problem framing workshop and Gov prototype designs",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p><span>The objective was to improve the PAYE tax account service so that users could better self-serve. It was hoped these improvements would lead to a reduction in offline PAYE support requests being made by users.</span></p>\n<p><span>PAYE data such as tax codes and employment history were not available on the existing service, which led many users to contact the support team. As witnessed in user testing, the service was also difficult to navigate and the information architecture was poor.  In essence, the service was not fit for purpose and explained why many users preferred to contact HMRC. </span></p>\n<p><span>During the project’s discovery phase, I spent time with the support team listening to calls from users. Some of the most common requests were users wanting to know their current year tax code and requested a copy of their employment history. </span></p>\n<p><span>PAYE Employment history can be used as evidence for job applications, mortgage and visa applications. HMRC would send up to 5 years of employment history to the user by post after a request was made. This was an expensive process for HMRC and unnecessary if the information was available on the PAYE account for the user to access </span><span></span></p>\n<p><span>We ran user testing sessions to identify gaps, pain points and gather insights <span>on the existing PAYE service</span>.</span></p>\n<p><span>Using the insights gathered during the discovery phase we ran a problem framing session with the project’s key stakeholders. This session helped the team align on the specific problem we were trying to solve and also agree on what features we would deliver for MVP. </span></p>\n<p><span>After we defined the problem statements, the UCD team created a series of how-might-we statements. These helped us brainstorm ideas, which led to the initial design concepts.</span></p>\n<p><span>These concepts were designed and tested with users using the Gov prototyping toolkit. This approach enabled us to test and iterate quickly, before these features were moved into development. </span></p>\n<p><span></span></p>\n<p><span></span></p>"
+      },
+      {
+        "id": "section-2",
+        "title": "What was delivered",
+        "html": "<ul>\n<li aria-level=\"1\"><span>An employment history page. Where users can download or print up to 5 years of their employment history</span></li>\n<li aria-level=\"1\"><span>The introduction of the current year tax code</span></li>\n<li aria-level=\"1\"><span>A redesigned PAYE account dashboard and navigation that clearly surfaced the user top tasks such as: tax codes and employment history.</span></li>\n<li aria-level=\"1\"><span>Improved content, such as the addition of contextual copy to explain complex PAYE terminology  </span><span></span><span></span></li>\n</ul>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Problem framing workshop",
+        "src": "/assets/hmrc-paye-account-gallery-0.png"
+      },
+      {
+        "caption": "Assumptions and priotisisation",
+        "src": "/assets/hmrc-paye-account-gallery-1.png"
+      },
+      {
+        "caption": "New PAYE Account homepage",
+        "src": "/assets/hmrc-paye-account-gallery-2.png"
+      },
+      {
+        "caption": "Printing employment history",
+        "src": "/assets/hmrc-paye-account-gallery-3.jpg"
+      },
+      {
+        "caption": "Employment history concepts",
+        "src": "/assets/hmrc-paye-account-gallery-4.png"
+      },
+      {
+        "caption": "Tax summary",
+        "src": "/assets/hmrc-paye-account-gallery-5.png"
+      },
+      {
+        "caption": "Current year Tax code inc contexual help",
+        "src": "/assets/hmrc-paye-account-gallery-6.png"
+      },
+      {
+        "caption": "Research assumption",
+        "src": "/assets/hmrc-paye-account-gallery-7.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/hmrc-paye-account/"
+  },
+  "the-aa": {
+    "title": "AA business account",
+    "org": "The AA",
+    "role": "Lead UX",
+    "date": "Sep 2020 – Jan 2022",
+    "deliverables": "User research, User journey mapping, problem framing workshop and visual designs",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p><span>The project’s objective was to replace a problematic sales journey and my account area with a faster, reliable and more user-centred service.</span></p>\n<p><span>On purchasing business breakdown cover, customers are prompted to create an online business breakdown account for the purpose of registering their vehicles against their policy. Customers can also manage their policy cover levels, purchase upgrades and renew their policy within their AA business account.</span></p>\n<p><span></span></p>"
+      },
+      {
+        "id": "section-2",
+        "title": "What was delivered",
+        "html": "<p><span>During the discovery phase, I ran a problem-framing session with key stakeholders. Its objective was to define the project’s scope, understand the problem, and to establish the project’s success metrics. The session enabled the team to agree upon a set of agreed principles and define the MVP. </span></p>\n<p><span>Next, a 6-week design and testing phase was run, where a </span><a href=\"https://chgfn4.axshare.com/#g=1&amp;p=log_in\"><span>low-fi My Account</span></a><span> prototype was created to test the assumptions and hypotheses derived during the problem-framing workshop. Later,</span><a href=\"https://3qc6qb.axshare.com/#g=1&amp;p=login\"> <span>high-fidelity</span></a><span> mobile and desktop prototypes were used for the final rounds of testing.</span></p>\n<p><span>In total, 5 rounds of unmoderated user testing were conducted, with over 30 participants composed of business account holders. My final outputs were a set of responsive visual designs built in Sketch.</span></p>\n<p>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Project scope overview",
+        "src": "/assets/the-aa-gallery-0.png"
+      },
+      {
+        "caption": "Sales journey problem framing",
+        "src": "/assets/the-aa-gallery-1.png"
+      },
+      {
+        "caption": "Discovery problem framing",
+        "src": "/assets/the-aa-gallery-2.png"
+      },
+      {
+        "caption": "User research",
+        "src": "/assets/the-aa-gallery-3.png"
+      },
+      {
+        "caption": "Mobile sales journey optimisation",
+        "src": "/assets/the-aa-gallery-4.png"
+      },
+      {
+        "caption": "New responsive site",
+        "src": "/assets/the-aa-gallery-5.png"
+      },
+      {
+        "caption": "Sales journey visuals",
+        "src": "/assets/the-aa-gallery-6.png"
+      },
+      {
+        "caption": "Legacy site",
+        "src": "/assets/the-aa-gallery-7.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/the-aa/"
+  },
+  "unilever": {
+    "title": "Campaign Wizard",
+    "org": "Unilever",
+    "role": "Lead UX",
+    "date": "Apr 2019 – Aug 2020",
+    "deliverables": "User research, User journeys and InVision prototypes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>A key objective for Unilever was to reduce the cost and time-to-market for digital marketing campaigns. Due to the labour intensity and complexity involved in creating campaigns many Unilever brands had outsourced this work to expensive external agencies. An average campaign took three months from inception to delivery. <span>So the process needed to be simplified for a brand manager to complete and delivery time significantly reduced.</span></p>\n<p><span></span></p>"
+      },
+      {
+        "id": "section-2",
+        "title": "What was delivered",
+        "html": "<p>Working with the brands and key stakeholder I ran workshops to map the as-is processes across the brands, which enabled us to identify commonality, pain points and also opportunities. As a group we journey-mapped a simplified application which would greatly reduce the labour intensity involved, prohibitive costs and take campaign creation from several weeks to hours. This application became known as the ‘Campaign Wizard’ (CW).</p>\n<p>To validate the journey I created a prototype to user test the hypothesis with brands and stakeholders. Following extensive testing, feedback and interactions we delivered the CW tool in February 2020. Following its release we continued to integrate and take on board feedback. The general reception was warm and though the inbuilt approval tool Unilever had a greater awareness and control of upcoming and live campaigns. As mentioned prior, the biggest achievement was now a brand manager can create cost-effective campaigns in minutes and see them live in several hours, down from four weeks.</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Mapping journey",
+        "src": "/assets/unilever-gallery-0.jpeg"
+      },
+      {
+        "caption": "Digitized journey",
+        "src": "/assets/unilever-gallery-1.png"
+      },
+      {
+        "caption": "Dashboard",
+        "src": "/assets/unilever-gallery-2.png"
+      },
+      {
+        "caption": "Completed campaign",
+        "src": "/assets/unilever-gallery-3.png"
+      },
+      {
+        "caption": "Campaign type",
+        "src": "/assets/unilever-gallery-4.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/unilever/"
+  },
+  "merchant-portal": {
+    "title": "N-genius portal",
+    "org": "Network International",
+    "role": "Lead UX",
+    "date": "Jun 2018 – Apr 2019",
+    "deliverables": "User research, User journeys and HTML/CSS prototypes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>Network International are the largest merchant acquirer and payment solution provider in the Middle East and Africa. They provide payment services from card issuing, to merchant acquisition and payment processing.</p>\n<p>My role was to lead the UX on their greenfield ecommerce payment gateway portal.</p>\n<p>I was involved in working with NI stakeholders to identify the users of the portal, understand their needs and what tasks they would be completing on the merchant portal. Once these areas were defined I produced personas, user journeys and an experience map which were the basis of the portal&#8217;s user experience.</p>\n<p>We designed a portal that allows merchants to view their orders, transactions, raise invoices and take payments. It was also designed to cater for complex group structures.</p>\n<p>I created a responsive prototype of a merchant portal and also an online customer payment page. As the portal&#8217;s user&#8217;s would be a mixture of English and Arabic speakers, so it was designed in both English (left to right) ad in Arabic (right to left) formats.</p>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Dashboard for merchants",
+        "src": "/assets/merchant-portal-gallery-0.png"
+      },
+      {
+        "caption": "Orderlisting wires",
+        "src": "/assets/merchant-portal-gallery-1.png"
+      },
+      {
+        "caption": "Orders listings design",
+        "src": "/assets/merchant-portal-gallery-2.png"
+      },
+      {
+        "caption": "Mobile view",
+        "src": "/assets/merchant-portal-gallery-3.png"
+      },
+      {
+        "caption": "Payment",
+        "src": "/assets/merchant-portal-gallery-4.png"
+      },
+      {
+        "caption": "Persona of user",
+        "src": "/assets/merchant-portal-gallery-5.png"
+      },
+      {
+        "caption": "Site map",
+        "src": "/assets/merchant-portal-gallery-6.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/merchant-portal/"
+  },
+  "money-claims-service": {
+    "title": "Money claims service",
+    "org": "Ministry of Justice",
+    "role": "Lead UX",
+    "date": "Mar 2017 – Jun 2018",
+    "deliverables": "User journeys and HTML/CSS prototypes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>I joined the project during the alpha stage. This project was goal was to replace the paper based money claim service with a digital service that also reduces the number of claims that end up in-front of a judge at court.</p>\n<p>My first task was to run stakeholder workshops to map out the entire journey of a claim.  From a claimant issuing a claim, to a defendant responding and right to the case appearing at a hearing. Based on the workshop we narrowed the initial Beta scope to a claimant issuing a claim and a defendant responding.</p>\n<p>We introduced features where parties could opt for mediation or the defendant could make an offer to settle the claim. These would enable the parties to resolve the claim amicably rather than go to court. This met one of the principal goals of the project to reduce the number of claims heading to court unnecessarily.</p>\n<p><span>My  role was to produce the HTML prototypes for both the defendant and claimant services, which were tested fortnightly with 6 users. At the end of my time on the project we successfully passed our GDS assessment and the service went live. </span></p>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Making a money claim tasklist for claimant",
+        "src": "/assets/money-claims-service-gallery-0.png"
+      },
+      {
+        "caption": "Claim details on user dashboard",
+        "src": "/assets/money-claims-service-gallery-1.png"
+      },
+      {
+        "caption": "IA for dual running two services",
+        "src": "/assets/money-claims-service-gallery-2.png"
+      },
+      {
+        "caption": "End to end existing service",
+        "src": "/assets/money-claims-service-gallery-3.png"
+      },
+      {
+        "caption": "User testing the service",
+        "src": "/assets/money-claims-service-gallery-4.png"
+      },
+      {
+        "caption": "Mapping our service and user needs",
+        "src": "/assets/money-claims-service-gallery-5.png"
+      },
+      {
+        "caption": "Scamping out concept",
+        "src": "/assets/money-claims-service-gallery-6.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/money-claims-service/"
+  },
+  "gender-pay-gap": {
+    "title": "Gender pay gap",
+    "org": "Department for Education",
+    "role": "UX designer",
+    "date": "Oct 2016 – Mar 2017",
+    "deliverables": "",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>I joined the project during the GDS alpha stage. The goal of the project was to create a service that would allow employers with over 250 employees to report their gender pay gap data on an annual basis.</p>\n<p>In my role as lead UX designer I defined the user journeys, designed the reporting tool prototype and worked closely with user researchers during the usability testing sessions with employers. Based on user testing we realised most employer needs were based around how they would calculate their data. So we worked closely with Gov to provide extensive guidance on company reporting.</p>\n<div title=\"Page 1\">\n<div>\n<div>\n<p><span></span></p>\n<p><span></span></p>\n<p><span>In addition to the reporting tool, worked on and designed the gender pay gap data viewing service. This service displays the employer&#8217;s gender pay gap visually on the publicly accessible website. It&#8217;s primary goal is to allow influencers like the TUC, the media and equal opportunities groups the ability to scrutinise employers’  gender pay gap data and then go on to create a public conversation and discourse on this important subject.</span></p>\n<p><span>We had the service assessed by GDS, and we successfully passed our assessment and the project went into beta. </span></p>\n<p><span></span></p>\n<p><span></span></p>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Registering for GPG for employer user journey",
+        "src": "/assets/gender-pay-gap-gallery-0.png"
+      },
+      {
+        "caption": "Search results showing employers",
+        "src": "/assets/gender-pay-gap-gallery-1.png"
+      },
+      {
+        "caption": "Viewing service for GPG",
+        "src": "/assets/gender-pay-gap-gallery-2.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/gender-pay-gap/"
+  },
+  "my-bt": {
+    "title": "My BT",
+    "org": "Sapient Nitro",
+    "role": "Lead UX",
+    "date": "Sep 2015 – Oct 2016",
+    "deliverables": "Discovery workshops, conceptional design, user journeys, clickable prototypes and functional wireframes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>The project’s objective was to enable existing BT customers to better self-serve within their account area. Currently, if customers want to change their package they have to call BT.</p>\n<p>My BT has many stakeholders, each with their own vision and objectives. So my first task was to run stakeholder workshops to get consensus on the vision and business requirements for My BT project. Also to make sure user needs were captured, I ran usability testing sessions with BT customers. The output during this stage were user journeys, signed off core diagrams and a concept prototype.</p>\n<p>The end result was an improved my account area where customers can manage their products, upgrade their package, add bolt-ons and pay their bills.</p>\n<p>During the production phase I produced detailed annotated wireframes and clickable prototypes for usability testing.</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "My BT homepage prototype",
+        "src": "/assets/my-bt-gallery-0.png"
+      },
+      {
+        "caption": "Your BT package prototype",
+        "src": "/assets/my-bt-gallery-1.png"
+      },
+      {
+        "caption": "Core diagram of page content",
+        "src": "/assets/my-bt-gallery-2.png"
+      },
+      {
+        "caption": "Site map of My BT",
+        "src": "/assets/my-bt-gallery-3.png"
+      },
+      {
+        "caption": "Identifying users and journeys",
+        "src": "/assets/my-bt-gallery-4.jpg"
+      },
+      {
+        "caption": "Persona and user jouney of user type",
+        "src": "/assets/my-bt-gallery-5.png"
+      },
+      {
+        "caption": "User testing analysis",
+        "src": "/assets/my-bt-gallery-6.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/my-bt/"
+  },
+  "agent-online-self-serve": {
+    "title": "Agent Online Self Serve",
+    "org": "HMRC",
+    "role": "Lead UX",
+    "date": "Jan 2014 – Sep 2015",
+    "deliverables": "User journeys, user research, HTML prototypes, and functional wireframes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>The aim of the Agent Online Self-Serve (AOSS) was to improve the online services for tax agents and also to reduce the reliance on HMRC’s agent contact centre.</p>\n<p>I spent the project’s discovery phase visiting small to large accountancy firms to understand their ways of working and identify their specific HMRC needs. These needs varied from small agents to the large Deloitte type firms. However one need was universal, the need to replace the paper client-to-agent delegation form (64-8) with a digital authorisation service.</p>\n<p>So I designed end-to-end digital authorisation service that enabled agents to search for their clients, specify the taxes that they would represent and then submit an authorisation request via email to the client. The client would then securely accept or reject the authorisation request. This process could be completed within 10 minutes, a vast improvement over the current three-week processing time of the 64-8 paper form.</p>\n<p>I also developed a dashboard that provided agent’s with an overview of their clients’ tax affairs and highlighted any compliance issues. I was the lead UX on the AOSS project, managing two senior user experience designers.</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Authorise a client screen for tax",
+        "src": "/assets/agent-online-self-serve-gallery-0.png"
+      },
+      {
+        "caption": "Dasboard for agent",
+        "src": "/assets/agent-online-self-serve-gallery-1.png"
+      },
+      {
+        "caption": "Tax agent persona",
+        "src": "/assets/agent-online-self-serve-gallery-2.png"
+      },
+      {
+        "caption": "User journey for tax agent",
+        "src": "/assets/agent-online-self-serve-gallery-3.png"
+      },
+      {
+        "caption": "User testing the journey",
+        "src": "/assets/agent-online-self-serve-gallery-4.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/agent-online-self-serve/"
+  },
+  "your-tax-account": {
+    "title": "Your Tax Account",
+    "org": "HMRC",
+    "role": "Lead UX",
+    "date": "Jun 2014 – Dec 2014",
+    "deliverables": "User research, User journeys and HTML/CSS prototypes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p><span>The purpose for Your Tax Account (YTA) was to make the management and payment of taxes accessible to everybody, not just accountants. So I made sure that user needs were central to the YTA experience. The first month was spent interviewing taxpayers and running usability testing sessions, this phase helped us to identify the customer’s needs. During production, I managed a mid-level UX designer.</span></p>\n<p>I designed the homepage to provide an at-a-glance overview of the user’s tax affairs. Each tax module displayed their respective filing deadline dates, and they also alerted the user to any compliance problems.</p>\n<p>I also designed the Self Assessment, PAYE and Corporation taxes statement views. They provided the user with a detailed view of their tax bill, payments and any penalties incurred during the tax year.</p>\n<p>During usability testing the user feedback was overwhelming positive. With many user’s commenting that they would feel more confident managing their tax affairs using YTA.</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Your tax account homepage",
+        "src": "/assets/your-tax-account-gallery-0.png"
+      },
+      {
+        "caption": "PAYE statement view",
+        "src": "/assets/your-tax-account-gallery-1.png"
+      },
+      {
+        "caption": "Self asssesment dashboard",
+        "src": "/assets/your-tax-account-gallery-2.png"
+      },
+      {
+        "caption": "Tax account to do list",
+        "src": "/assets/your-tax-account-gallery-3.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/your-tax-account/"
+  },
+  "trusted-trader": {
+    "title": "Trusted trader",
+    "org": "Which?",
+    "role": "Lead UX",
+    "date": "Nov 2013 – Jun 2014",
+    "deliverables": "Experience maps, discovery workshops, user journeys, clickable prototypes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>People are turning to sites like Check-a-trade and My Builder to find peer reviewed tradesmen in their area. In this crowded market, Trusted Trader’s unique selling point was that all the tradesmen listed have been vetted and are Which approved. The site also offers consumer advice and DIY guides on tackling small jobs. I was the lead UX on Trusted trader managing a Snr designer.</p>\n<p>Both the user and tradesmen were interviewed during the concept phase helping us identify their needs. I also ran workshops to help the business define their requirements for Trusted trader. I produced an experience map, user journeys and personas during this phase.</p>\n<p>The annotated wireframes I produced covered the journeys of a user searching and contacting a tradesman. To a tradesmen signing up and building their profile. I produced Axure prototypes for the fortnightly usability testing session.</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Montage of work",
+        "src": "/assets/trusted-trader-gallery-0.png"
+      },
+      {
+        "caption": "Profile of user",
+        "src": "/assets/trusted-trader-gallery-1.png"
+      },
+      {
+        "caption": "Sitemap of Trusted trader",
+        "src": "/assets/trusted-trader-gallery-2.png"
+      },
+      {
+        "caption": "User journey",
+        "src": "/assets/trusted-trader-gallery-3.png"
+      },
+      {
+        "caption": "Usage map",
+        "src": "/assets/trusted-trader-gallery-4.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/trusted-trader/"
+  },
+  "product-reviews": {
+    "title": "Product reviews",
+    "org": "Which?",
+    "role": "Lead UX",
+    "date": "Mar 2013 – Nov 2013",
+    "deliverables": "Experience maps, user journeys, conceptual prototypes and functional wireframes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>The TV reviews project was Which’s first step of their responsive site redesign &amp; re-architecture program. This project would define the experience of Which product reviews for the coming years. I was one of two Snr UX designers working on the project.</p>\n<p>My initial role was strategic, during which I facilitated stakeholder workshops and ran customer interviews to lock down business requirements and user needs. During this phase I produced an experience map, user journeys, personas and a concept prototype for early usability testing.</p>\n<p>During the production phase I delivered annotated wires for production and clickable prototyping for usability testing sessions.</p>\n<p>My outputs: wireframes and journeys maps for the search results, product review, home entertainment landing pages.<span> </span></p>\n<p><span></span></p>\n<p><span></span></p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Mobile filtering of search results",
+        "src": "/assets/product-reviews-gallery-0.png"
+      },
+      {
+        "caption": "Search result wires",
+        "src": "/assets/product-reviews-gallery-1.png"
+      },
+      {
+        "caption": "Prototype of reviews",
+        "src": "/assets/product-reviews-gallery-2.png"
+      },
+      {
+        "caption": "Best buy screens",
+        "src": "/assets/product-reviews-gallery-3.png"
+      },
+      {
+        "caption": "Customer journey",
+        "src": "/assets/product-reviews-gallery-4.png"
+      },
+      {
+        "caption": "Experience model",
+        "src": "/assets/product-reviews-gallery-5.png"
+      },
+      {
+        "caption": "Product landing pge",
+        "src": "/assets/product-reviews-gallery-6.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/product-reviews/"
+  },
+  "radio-times-ipad-app": {
+    "title": "Radio Times iPad app",
+    "org": "Immediate Media",
+    "role": "Lead UX",
+    "date": "Jan 2013 – Apr 2013",
+    "deliverables": "Personas, user journeys, prototypes and functional wireframes",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>This was Radio times&#8217; first foray into the world of apps. They wanted to broaden their appeal to the younger digitally savvy market, whose preference would be a digital format over any print subscription model. I was the lead UX on the project managing two mid-level UX designers.</p>\n<p>The first part of this project was spent working closely with stakeholders, producing the user journeys and personas. I also ran user interviews sessions which helped define the needs of both Radio times subscribers and non-subscribers alike.</p>\n<p>The second part of the project was spent delivering annotated wireframes for production and clickable prototypes for the weekly usability testing sessions.</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Radio times montage of work",
+        "src": "/assets/radio-times-ipad-app-gallery-0.png"
+      },
+      {
+        "caption": "Scamp of listing page",
+        "src": "/assets/radio-times-ipad-app-gallery-1.png"
+      },
+      {
+        "caption": "User journey of app",
+        "src": "/assets/radio-times-ipad-app-gallery-2.png"
+      },
+      {
+        "caption": "Persona of app user",
+        "src": "/assets/radio-times-ipad-app-gallery-3.png"
+      },
+      {
+        "caption": "Radio times Axure prototype",
+        "src": "/assets/radio-times-ipad-app-gallery-4.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/radio-times-ipad-app/"
+  },
+  "bq": {
+    "title": "B&Q",
+    "org": "EMC digital",
+    "role": "Senior UX",
+    "date": "Sep 2012 – Jan 2013",
+    "deliverables": "",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>I was involved with B&amp;Q’s site redesign from the concept phase right through to production. We delivered a responsive website that achieved the dual aims of selling B&amp;Q’s DIY products and also appealing to non-DIY customers base, by focusing on the new areas of lifestyle and inspiration. I was one of four Snr UX designers on the project.</p>\n<p>During my time at B&amp;Q I produced the site’s IA and navigation. I also defined the UX for the homepage, product page &amp; checkout. I delivered these pages as annotated technical Omnigraffle wireframes. I also produced clickable Axure prototypes for the regular usability testing sessions with customers.</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Montage of work",
+        "src": "/assets/bq-gallery-0.png"
+      },
+      {
+        "caption": "Checkout process flow",
+        "src": "/assets/bq-gallery-1.png"
+      },
+      {
+        "caption": "Personas for user type",
+        "src": "/assets/bq-gallery-2.png"
+      },
+      {
+        "caption": "Technical wireframes",
+        "src": "/assets/bq-gallery-3.png"
+      },
+      {
+        "caption": "My account scamp",
+        "src": "/assets/bq-gallery-4.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/bq/"
+  },
+  "barclaycard": {
+    "title": "Barclaycard",
+    "org": "EMC digital",
+    "role": "Senior UX",
+    "date": "Jul 2012 – Sep 2012",
+    "deliverables": "",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>My principle project on the Barclaycard account was the redesign their customer account homepage. To make the homepage’s credit card summary more engaging we introduced the theme of gamification. We achieved this by using a progress bar lozenge that visualised the customer’s credit limit, balance and amount available left to spend.</p>\n<p>Other work included creating account fraud prevention flow. This functionality provides a simpler way for customers to report any suspicious account on their credit card statements to Barclaycard.</p>\n<p>I was the Snr UX on both projects and I delivered annotated wireframes and clickable prototypes for testing.</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Barclaycard dashboard wires",
+        "src": "/assets/barclaycard-gallery-0.png"
+      },
+      {
+        "caption": "Fraud review process flow",
+        "src": "/assets/barclaycard-gallery-1.png"
+      },
+      {
+        "caption": "Fraud review UI",
+        "src": "/assets/barclaycard-gallery-2.png"
+      },
+      {
+        "caption": "Fraud review wires",
+        "src": "/assets/barclaycard-gallery-3.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/barclaycard/"
+  },
+  "tagcmd": {
+    "title": "TAG:CMD",
+    "org": "Tag",
+    "role": "Senior UX",
+    "date": "Nov 2011 – Jul 2012",
+    "deliverables": "",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>Tag:CMD is a tool that agencies and their clients use to collaborate online on creative work in progress, from TV commercials to web banners and print pieces. I led the UX on the TAG:CMD project and managed a team of three UX designers.</p>\n<p>I worked on the redesign of the Digital Asset Management (DAM) platform. DAM is where clients view and manage their creative work whilst in production. After listening to user feedback we developed a comments system within DAM, this provided the client with the ability to review and leave feedback on assets in real-time.</p>\n<p>I also developed the CMD client billing/invoicing system. This platform provided the client with an project overview cost and a payment/invoicing system for production work.</p>\n<p>I co-produced the visual designs, clickable prototypes, user research and annotated wireframes for both projects.</p>\n<p>I regularly visited CMD’s client such as intel and H&amp;M to run usability testing sessions.</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "View assets",
+        "src": "/assets/tagcmd-gallery-0.png"
+      },
+      {
+        "caption": "Comments UI",
+        "src": "/assets/tagcmd-gallery-1.png"
+      },
+      {
+        "caption": "Editing an asset’s meta-data",
+        "src": "/assets/tagcmd-gallery-2.png"
+      },
+      {
+        "caption": "Billing dashboard",
+        "src": "/assets/tagcmd-gallery-3.png"
+      },
+      {
+        "caption": "Billing module",
+        "src": "/assets/tagcmd-gallery-4.png"
+      },
+      {
+        "caption": "Persona of user type",
+        "src": "/assets/tagcmd-gallery-5.png"
+      },
+      {
+        "caption": "CMD User journey",
+        "src": "/assets/tagcmd-gallery-6.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/tagcmd/"
+  },
+  "tapp-iphone-ipad-app": {
+    "title": "TAPP iPhone & iPad app",
+    "org": "Tag",
+    "role": "UX & visual designer",
+    "date": "Aug 2011 – Nov 2011",
+    "deliverables": "User research and visual designs",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>The TAPP approvals app for iPhone and iPad compliments the Tag:CMD web application by providing agencies with the ability to approve marketing work on the go.</p>\n<p>My role as lead UX was to produce the annotated wireframes and the visual designs. I worked alongside a third party agency to deliver the app to market.</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Scampt of approval list",
+        "src": "/assets/tapp-iphone-ipad-app-gallery-0.png"
+      },
+      {
+        "caption": "Scamp of user comments",
+        "src": "/assets/tapp-iphone-ipad-app-gallery-1.png"
+      },
+      {
+        "caption": "Scamp of meta data",
+        "src": "/assets/tapp-iphone-ipad-app-gallery-2.png"
+      },
+      {
+        "caption": "Scamp of aproval page",
+        "src": "/assets/tapp-iphone-ipad-app-gallery-3.png"
+      },
+      {
+        "caption": "Approve purchase order",
+        "src": "/assets/tapp-iphone-ipad-app-gallery-4.jpg"
+      },
+      {
+        "caption": "Approve an image on the go",
+        "src": "/assets/tapp-iphone-ipad-app-gallery-5.png"
+      },
+      {
+        "caption": "Approval front page",
+        "src": "/assets/tapp-iphone-ipad-app-gallery-6.jpg"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/tapp-iphone-ipad-app/"
+  },
+  "android-iphone-apps": {
+    "title": "Android & iPhone apps",
+    "org": "Rightmove",
+    "role": "Snr UX, visual designer and front end developer",
+    "date": "Feb 2011 – Aug 2011",
+    "deliverables": "User journeys, visual designs and CSS",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>Following the release of the iPad app, Rightmove brought app development in-house. I was the Snr UX and visual designer in a small development team working on both the iPhone &amp; Android apps.</p>\n<p>We took advantage of the devices functionality to provide search results based on the user’s current location and the ability to call an agent straight from a property details page. The app also included large swipeable property images, zoomable floorplans and local area information. We also developed push notifications that alerted users to new properties being listed which matched their saved searches.</p>\n<p>Before the project began I facilitated workshops with the business and customers. This phase identified the user needs, the business requirement and defined the overall experience of the app. During developement I ran regular usability sessions with Rightmove customers to validate the approach.</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "iPhone search result",
+        "src": "/assets/android-iphone-apps-gallery-0.png"
+      },
+      {
+        "caption": "Android property detail view",
+        "src": "/assets/android-iphone-apps-gallery-1.png"
+      },
+      {
+        "caption": "iPhone map view",
+        "src": "/assets/android-iphone-apps-gallery-2.png"
+      },
+      {
+        "caption": "Android scamp of map view",
+        "src": "/assets/android-iphone-apps-gallery-3.png"
+      },
+      {
+        "caption": "iPhone scamp filters",
+        "src": "/assets/android-iphone-apps-gallery-4.png"
+      },
+      {
+        "caption": "iPhone scamp map view",
+        "src": "/assets/android-iphone-apps-gallery-5.png"
+      },
+      {
+        "caption": "Iphone scamp property details",
+        "src": "/assets/android-iphone-apps-gallery-6.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/android-iphone-apps/"
+  },
+  "property-details-page": {
+    "title": "Property details page",
+    "org": "Rightmove",
+    "role": "UX, visual designer and front-end developer",
+    "date": "Jun 2010 – Nov 2010",
+    "deliverables": "Stakeholder workshops, personas, user journeys and front-end development",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>The property details redesign was always going to be a challenging project as we needed to meet the needs of the buyer, vendor, estate agent and of course Rightmove itself. I was the UX, visual designer and front end developer on the project.</p>\n<p>The UX goal was creating the experience of a user visiting the property without actually being there. We achieved this using large property photos, zoomable detailed floorplans and providing local area information such as; local schools, transport links and street view.</p>\n<p>Estate agents pay Rightmove a subscription to display their properties. In return they require that a large volume of leads (calls and emails from buyer) to come from the site. I made sure that the redesign not only maintained this level but also increased the number of leads.</p>\n<p>To make sure we got this page right I ran many usability testing sessions and focus groups with buyers, vendors and estate agents.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Larger photos and a image carousel was introduced",
+        "src": "/assets/property-details-page-gallery-0.png"
+      },
+      {
+        "caption": "Large interactive floorplans",
+        "src": "/assets/property-details-page-gallery-1.png"
+      },
+      {
+        "caption": "Add personal notes and introduction of social media",
+        "src": "/assets/property-details-page-gallery-2.png"
+      },
+      {
+        "caption": "Attractive property print outs",
+        "src": "/assets/property-details-page-gallery-3.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/property-details-page/"
+  },
+  "ipad-app": {
+    "title": "iPad app",
+    "org": "Rightmove",
+    "role": "Snr UX, visual designer and front end developer",
+    "date": "Jan 2010 – Jun 2010",
+    "deliverables": "",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>The iPad app was Rightmove’s first venture into mobile apps. I was the UX, visual designer and front end developer on the project, and I worked alongside a third party agency to deliver the App.</p>\n<p>New features included utilising the iPad’s GPS functionality to provide search results based on the user’s current location, large swipeable property images, zoomable floorplans and search results in a grid layout.</p>\n<p>The ideas and learnings from this project fed into the property details redesign project.</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Ipad search results page",
+        "src": "/assets/ipad-app-gallery-0.png"
+      },
+      {
+        "caption": "Find local properties on a map page",
+        "src": "/assets/ipad-app-gallery-1.png"
+      },
+      {
+        "caption": "Property details page",
+        "src": "/assets/ipad-app-gallery-2.png"
+      },
+      {
+        "caption": "Scamp showing search results",
+        "src": "/assets/ipad-app-gallery-3.png"
+      },
+      {
+        "caption": "Scamp showing property details modal window",
+        "src": "/assets/ipad-app-gallery-4.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/ipad-app/"
+  },
+  "draw-a-search": {
+    "title": "Draw a search",
+    "org": "Rightmove",
+    "role": "UX, visual designer and front-end developer",
+    "date": "May 2009 – Nov 2009",
+    "deliverables": "Concept, visual designs and front-end development",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>During a Rightmove hack-week our small team developed the idea of drawing property searches on a map. As none of us were from London we found our knowledge was limited when searching for properties. Plus, we found searching just using postcodes cumbersome, so they idea of drawing your search area on a map was born.</p>\n<p>After winning the hack-week our idea was developed into a project called draw-a-search. My role throughout was as a UX, visual designer and front end developer. During the course of the project I ran several usability testing sessions with customers, where the overwhelming feedback was positive.</p>\n<p>Following the success of draw a search I worked on the estate agent version, the Agent Competitor Analysis (ACA). This tool provides agents with the ability to monitor their performance against competitors in their drawn area or patches.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Draw your search on a map",
+        "src": "/assets/draw-a-search-gallery-0.jpg"
+      },
+      {
+        "caption": "View properties on a map",
+        "src": "/assets/draw-a-search-gallery-1.jpg"
+      },
+      {
+        "caption": "Property popups",
+        "src": "/assets/draw-a-search-gallery-2.jpg"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/draw-a-search/"
+  },
+  "homepage-redesign": {
+    "title": "Homepage redesign",
+    "org": "Lastminute",
+    "role": "Visual designer",
+    "date": "Sep 2005 – Aug 2007",
+    "deliverables": "",
+    "sections": [
+      {
+        "id": "section-1",
+        "title": "Overview",
+        "html": "<p>My role at Lastminute.com was as a visual and front-end designer. The standout project was the redesign of the homepage and the site navigation. We increased the visibility of the search box on the homepage and moved many of the advanced search options onto the search results page.</p>\n<p>We also reduced the number of homepage links and replaced these with section modules, this reduced visual noise and provided a smarter set of options to present to the user. The original left sided nav was replaced by a top nav and the number of navigation links was reduced from 45 down to 10.</p>\n<p>Other work included designing and building the new holiday package flow. I also white labelled the Lastminute search functionality into third party sites such as Tesco, Saga and Egg.</p>\n<p>&nbsp;</p>\n<div>\n<div>"
+      }
+    ],
+    "images": [
+      {
+        "caption": "Home page redesign",
+        "src": "/assets/homepage-redesign-gallery-0.png"
+      },
+      {
+        "caption": "New look holiday search results",
+        "src": "/assets/homepage-redesign-gallery-1.png"
+      },
+      {
+        "caption": "Music landing page redesign",
+        "src": "/assets/homepage-redesign-gallery-2.png"
+      },
+      {
+        "caption": "Redesign of sports landing pages",
+        "src": "/assets/homepage-redesign-gallery-3.png"
+      },
+      {
+        "caption": "Redesign of promo subpage",
+        "src": "/assets/homepage-redesign-gallery-4.png"
+      }
+    ],
+    "videos": [],
+    "source": "https://electronicpixelspace.com/project/homepage-redesign/"
+  }
+}

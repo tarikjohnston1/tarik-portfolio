@@ -1,0 +1,112 @@
+{
+  "teacher-services": {
+    "src": "/assets/teacher-services-cover.jpg",
+    "alt": "Teacher services",
+    "description": "I worked on two projects during my time at DfE.\nThe first was the redesign of the Teacher Self-Service Portal, a platform that allows teachers to view and download their qualification certificates, check their teaching status, and update personal details.\nThe second was the development of the DfE Identity Account, a single sign-on solution to securely verify user identity and provide access to multiple DfE services under one account.."
+  },
+  "hmrc-paye-account": {
+    "src": "/assets/hmrc-paye-account-cover.jpg",
+    "alt": "HMRC PAYE account",
+    "description": "The objective was to improve the PAYE tax account service so that users could better self-serve."
+  },
+  "the-aa": {
+    "src": "/assets/the-aa-cover.png",
+    "alt": "AA business account",
+    "description": "The project’s objective was to replace a problematic sales journey and my account area with a faster, reliable and more user-centred service.\nOn purchasing business breakdown cover, customers are prompted to create an online business breakdown account for the purpose of registering their vehicles against their policy."
+  },
+  "unilever": {
+    "src": "/assets/unilever-cover.png",
+    "alt": "Campaign Wizard",
+    "description": "A key objective for Unilever was to reduce the cost and time-to-market for digital marketing campaigns."
+  },
+  "merchant-portal": {
+    "src": "/assets/merchant-portal-cover.png",
+    "alt": "N-genius portal",
+    "description": "Network International are the largest merchant acquirer and payment solution provider in the Middle East and Africa."
+  },
+  "money-claims-service": {
+    "src": "/assets/money-claims-service-cover.png",
+    "alt": "Money claims service",
+    "description": "I joined the project during the alpha stage."
+  },
+  "gender-pay-gap": {
+    "src": "/assets/gender-pay-gap-cover.jpg",
+    "alt": "Gender pay gap",
+    "description": "I joined the project during the GDS alpha stage."
+  },
+  "my-bt": {
+    "src": "/assets/my-bt-cover.png",
+    "alt": "My BT",
+    "description": "The project’s objective was to enable existing BT customers to better self-serve within their account area."
+  },
+  "agent-online-self-serve": {
+    "src": "/assets/agent-online-self-serve-cover.png",
+    "alt": "Agent Online Self Serve",
+    "description": "The aim of the Agent Online Self-Serve (AOSS) was to improve the online services for tax agents and also to reduce the reliance on HMRC’s agent contact centre.\nI spent the project’s discovery phase visiting small to large accountancy firms to understand their ways of working and identify their specific HMRC needs."
+  },
+  "your-tax-account": {
+    "src": "/assets/your-tax-account-cover.png",
+    "alt": "Your Tax Account",
+    "description": "The purpose for Your Tax Account (YTA) was to make the management and payment of taxes accessible to everybody, not just accountants."
+  },
+  "trusted-trader": {
+    "src": "/assets/trusted-trader-cover.png",
+    "alt": "Trusted trader",
+    "description": "People are turning to sites like Check-a-trade and My Builder to find peer reviewed tradesmen in their area."
+  },
+  "product-reviews": {
+    "src": "/assets/product-reviews-cover.png",
+    "alt": "Product reviews",
+    "description": "The TV reviews project was Which’s first step of their responsive site redesign & re-architecture program."
+  },
+  "radio-times-ipad-app": {
+    "src": "/assets/radio-times-ipad-app-cover.png",
+    "alt": "Radio Times iPad app",
+    "description": "This was Radio times’ first foray into the world of apps."
+  },
+  "bq": {
+    "src": "/assets/bq-cover.png",
+    "alt": "B&Q",
+    "description": "I was involved with B&Q’s site redesign from the concept phase right through to production. We delivered a responsive website that achieved the dual aims of selling B&Q’s DIY products and also appealing to non-DIY customers base, by focusing on the new areas of lifestyle and inspiration."
+  },
+  "barclaycard": {
+    "src": "/assets/barclaycard-cover.png",
+    "alt": "Barclaycard",
+    "description": "My principle project on the Barclaycard account was the redesign their customer account homepage."
+  },
+  "tagcmd": {
+    "src": "/assets/tagcmd-cover.png",
+    "alt": "TAG:CMD",
+    "description": "Tag:CMD is a tool that agencies and their clients use to collaborate online on creative work in progress, from TV commercials to web banners and print pieces."
+  },
+  "tapp-iphone-ipad-app": {
+    "src": "/assets/tapp-iphone-ipad-app-cover.png",
+    "alt": "TAPP iPhone & iPad app",
+    "description": "The TAPP approvals app for iPhone and iPad compliments the Tag:CMD web application by providing agencies with the ability to approve marketing work on the go.\nMy role as lead UX was to produce the annotated wireframes and the visual designs."
+  },
+  "android-iphone-apps": {
+    "src": "/assets/android-iphone-apps-cover.png",
+    "alt": "Android & iPhone apps",
+    "description": "Following the release of the iPad app, Rightmove brought app development in-house."
+  },
+  "property-details-page": {
+    "src": "/assets/property-details-page-cover.png",
+    "alt": "Property details page",
+    "description": "The property details redesign was always going to be a challenging project as we needed to meet the needs of the buyer, vendor, estate agent and of course Rightmove itself."
+  },
+  "ipad-app": {
+    "src": "/assets/ipad-app-cover.png",
+    "alt": "iPad app",
+    "description": "The iPad app was Rightmove’s first venture into mobile apps."
+  },
+  "draw-a-search": {
+    "src": "/assets/draw-a-search-cover.png",
+    "alt": "Draw a search",
+    "description": "During a Rightmove hack-week our small team developed the idea of drawing property searches on a map."
+  },
+  "homepage-redesign": {
+    "src": "/assets/homepage-redesign-cover.png",
+    "alt": "Homepage redesign",
+    "description": "My role at Lastminute.com was as a visual and front-end designer."
+  }
+}
