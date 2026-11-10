@@ -108,3 +108,5 @@ a,.rt-Link,.project-card>.rt-Text:last-child,.case-gallery .gallery-item .screen
 .earlier-project .cover-aa .card-art img{position:absolute;width:165%;height:auto;max-width:none;left:-3%;top:-9%;object-fit:initial}
 
 .earlier-project .cover-aa .card-art img{top:-13%}.earlier-project .cover-property .card-art{display:flex;gap:14px;align-items:center}.earlier-project .cover-property .card-art img{width:calc(50% - 7px);height:100%;object-fit:contain}.project-preview .card-art img{box-shadow:none}
+
+.card-meta{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin:0 0 8px}.card-meta .eyebrow{margin:0;min-width:0}.card-years{font-size:var(--type-caption);line-height:1.5;color:var(--gray-11);white-space:nowrap;flex-shrink:0}
