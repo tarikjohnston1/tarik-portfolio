@@ -29,3 +29,11 @@ The complete static website is generated in `dist/`.
 - `src/additional-cases.json`: earlier case studies
 - `public/assets`: portfolio images
 - `AGENTS.md`: writing preferences
+
+## GitHub Pages
+
+In repository Settings → Pages, choose GitHub Actions. The included workflow builds and publishes `dist/` when changes are pushed to `main`, or when started manually in Actions.
+
+The workflow detects the Pages base path, so links and images work at `/tarik-portfolio/` and at a custom domain. Local builds continue to use `/`.
+
+Changes stay local until Tarik explicitly asks to push them.

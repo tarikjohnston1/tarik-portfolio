@@ -1,9 +1,11 @@
 import {build} from 'esbuild';
-import {mkdir,cp,writeFile} from 'node:fs/promises';
+import {mkdir,cp,writeFile,readFile} from 'node:fs/promises';
+const basePath=process.env.BASE_PATH?'/'+process.env.BASE_PATH.replace(/^\/+|\/+$/g,''):'';
+const basePaths={name:'base-paths',setup(builder){builder.onLoad({filter:/\.(jsx|json)$/},async({path})=>{let contents=await readFile(path,'utf8');if(basePath){contents=contents.replace(/(["'])\/(assets|project)\//g,(_,quote,folder)=>quote+basePath+'/'+folder+'/').replace(/href="\//g,'href="'+basePath+'/');}return {contents,loader:path.endsWith('.json')?'json':'jsx'};});}};
 await mkdir('dist',{recursive:true});
 await cp('public','dist',{recursive:true});
-await build({entryPoints:['src/main.jsx'],bundle:true,minify:true,outdir:'dist/app',entryNames:'portfolio',jsx:'automatic',define:{'process.env.NODE_ENV':'"production"'}});
-const html=title=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${title}</title><meta name="description" content="Tarik Johnston — interaction and UX design across government, healthcare and digital services."><link rel="stylesheet" href="/app/portfolio.css"></head><body><div id="root"></div><script type="module" src="/app/portfolio.js"></script></body></html>`;
+await build({entryPoints:['src/main.jsx'],bundle:true,minify:true,outdir:'dist/app',entryNames:'portfolio',jsx:'automatic',plugins:[basePaths],define:{__BASE_PATH__:JSON.stringify(basePath),'process.env.NODE_ENV':'"production"'}});
+const html=title=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${title}</title><meta name="description" content="Tarik Johnston — interaction and UX design across government, healthcare and digital services."><link rel="stylesheet" href="${basePath}/app/portfolio.css"></head><body><div id="root"></div><script type="module" src="${basePath}/app/portfolio.js"></script></body></html>`;
 await writeFile('dist/index.html',html('Tarik Johnston — Interaction & UX designer'));
 await mkdir('dist/project/btms',{recursive:true});
 await writeFile('dist/project/btms/index.html',html('Border Trade Matching Service — Tarik Johnston'));
