@@ -130,74 +130,37 @@
   "btms": {
     "title": "Border Trade Matching Service (BTMS)",
     "org": "DEFRA",
-    "role": "Lead interaction designer",
+    "role": "Lead Interaction designer",
     "date": "Mar 2025 – Jan 2026",
-    "deliverables": "Interaction design, service design and interactive prototypes",
+    "deliverables": "Interaction and service design. Interactive prototypes",
     "sections": [
       {
         "id": "overview",
         "title": "Overview",
-        "html": "<p>At DEFRA, I was the lead interaction designer on the Border Trade Matching Service (BTMS). The service brings customs declarations and import notifications together, helping border teams find consignments, check for problems and work out what to do next.</p>"
+        "html": "<p>At DEFRA, I was the <strong>Lead Interaction Designer</strong> on the <strong>Border Trade Matching Service (BTMS)</strong> — a new internal service designed to replace a legacy system and support border and operational staff in making accurate, time-critical decisions on goods entering the UK from the EU and rest of world.</p><p>BTMS provides a <strong>search-led interface</strong> that allows users to find consignments using a range of reference numbers and view matched data from <strong>HMRC’s Customs Declaration Service (CDS)</strong> and <strong>IPAFFS</strong> in one place. This enables staff to quickly identify mismatches, understand why goods may be held, and enable staff to resolve issues to keep the border flowing.</p><p>The outcome was a service that made it easier for border teams to identify issues, understand what had happened, and take the right action. </p>"
       },
       {
-        "id": "challenge",
-        "title": "The challenge",
-        "html": "<p>Border teams need to make quick, accurate decisions about goods entering the UK. To do this, they need to compare customs declarations from HMRC’s Customs Declaration Service (CDS) with import notifications from IPAFFS.</p><p>The aim was to replace a legacy system and bring this information into one place. Staff needed to see where records did not match, check inspection outcomes and understand what had happened to a consignment.</p>"
-      },
-      {
-        "id": "search-and-matching",
-        "title": "Finding a consignment",
-        "html": "<p>I designed the search so staff could find a consignment using different reference numbers, depending on the information they had.</p><p>The results bring together the linked customs declarations and IPAFFS notifications. This lets staff compare the records and check the details in one place.</p>",
-        "imageIndices": [
-          1
-        ]
-      },
-      {
-        "id": "discrepancies",
-        "title": "Showing where records do not match",
-        "html": "<p>I designed the results to make it easier to spot where records did not match. Status labels and filters help staff see which items need attention and decide what to look at first.</p><p>I also worked on the system messages and errors so it was clearer what had gone wrong and what staff could do next.</p>",
-        "imageIndices": [
-          0
-        ]
-      },
-      {
-        "id": "timeline",
-        "title": "Showing what happened over time",
-        "html": "<p>Staff also needed to understand how a consignment had reached its current status. I designed a timeline showing the key events, decisions and status changes, so they could look back through what had happened.</p>",
-        "imageIndices": [
-          3
-        ]
-      },
-      {
-        "id": "wider-contribution",
-        "title": "Other work on the service",
-        "html": "<p>Alongside the search, results and timeline, I designed the reporting views. These use graphs to show operational data and trends over time.</p><p>I produced interactive prototypes and used GOV.UK design patterns across the service, with attention to accessibility, clear messages and readable data.</p>",
-        "imageIndices": [
-          2
-        ]
-      },
-      {
-        "id": "result",
+        "id": "delivered",
         "title": "What was delivered",
-        "html": "<p>The design brings search, matched records and the consignment timeline into one service. Staff can find a consignment, check for differences between records and look back at the events behind a decision.</p><p>The video below shows how the service works.</p>"
+        "html": "<ul>\n<li>Designed a <strong>search-led service</strong> allowing users to find consignments using multiple reference types</li>\n<li>Created <strong>clear, scannable results views</strong> that bring together matched CDS and IPAFFS data in a single interface</li>\n<li>Designed a <strong>consignment timeline</strong> to show key events, decisions, and status changes over time</li>\n<li>Introduced <strong>visual indicators and filters</strong> to help users quickly identify discrepancies and prioritise action</li>\n<li>Designed the <strong>BTMS reporting service</strong>, using visual graphs to show trends and operational data over time</li>\n<li>Improved <strong>system messaging and error clarity</strong> to support faster issue resolution</li>\n<li>Ensured <strong>accessibility and GOV.UK compliance</strong>, applying WCAG-aligned patterns and accessible data visualisation throughout</li>\n</ul>"
       }
     ],
     "images": [
       {
         "src": "/assets/btms-gallery-0.png",
-        "caption": "Results showing where customs declarations and import notifications do not match"
+        "caption": "search results showing a problem"
       },
       {
         "src": "/assets/btms-gallery-1.png",
-        "caption": "Finding linked customs declarations using a consignment reference"
+        "caption": "search by different consignment references"
       },
       {
         "src": "/assets/btms-gallery-2.png",
-        "caption": "Reporting views showing operational data over time"
+        "caption": "reporting data"
       },
       {
         "src": "/assets/btms-gallery-3.png",
-        "caption": "A timeline showing the events and decisions for a consignment"
+        "caption": "consignment timeline"
       }
     ],
     "videos": [
