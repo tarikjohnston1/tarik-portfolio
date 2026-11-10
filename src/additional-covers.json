@@ -6,7 +6,7 @@
   },
   "hmrc-paye-account": {
     "src": "/assets/hmrc-paye-account-gallery-2.png",
-    "alt": "New PAYE Account homepage",
+    "alt": "New PAYE account homepage",
     "description": "Helping people check their tax code, view employment history and manage PAYE online."
   },
   "the-aa": {
@@ -26,12 +26,12 @@
   },
   "money-claims-service": {
     "src": "/assets/money-claims-service-gallery-0.png",
-    "alt": "Making a money claim tasklist for claimant",
+    "alt": "Task list for making a money claim",
     "description": "Designing online journeys to make and respond to money claims, including offers to settle and mediation."
   },
   "gender-pay-gap": {
     "src": "/assets/gender-pay-gap-gallery-2.png",
-    "alt": "Viewing service for GPG",
+    "alt": "Gender pay gap viewing service",
     "description": "Designing services for employers to report gender pay gaps and for the public to explore the data."
   },
   "my-bt": {
@@ -41,7 +41,7 @@
   },
   "agent-online-self-serve": {
     "src": "/assets/agent-online-self-serve-gallery-1.png",
-    "alt": "Dasboard for agent",
+    "alt": "Dashboard for agent",
     "description": "Replacing paper authorisation with a digital journey for tax agents to represent clients and manage their tax affairs."
   },
   "your-tax-account": {
@@ -61,7 +61,7 @@
   },
   "radio-times-ipad-app": {
     "src": "/assets/radio-times-ipad-app-gallery-4.png",
-    "alt": "Radio times Axure prototype",
+    "alt": "Radio Times Axure prototype",
     "description": "Leading UX for the Radio Times iPad app, from audience research to programme listings and tested prototypes."
   },
   "bq": {
@@ -71,7 +71,7 @@
   },
   "barclaycard": {
     "src": "/assets/barclaycard-gallery-0.png",
-    "alt": "Barclaycard dashboard wires",
+    "alt": "Barclaycard dashboard wireframes",
     "description": "Redesigning the credit card account overview and helping customers report suspicious transactions."
   },
   "tagcmd": {
@@ -91,12 +91,12 @@
   },
   "property-details-page": {
     "src": "/assets/property-details-page-gallery-0.png",
-    "alt": "Larger photos and a image carousel was introduced",
+    "alt": "Larger photos and an image carousel",
     "description": "Redesigning property details with larger photos, interactive floorplans and local information to support enquiries."
   },
   "ipad-app": {
     "src": "/assets/ipad-app-gallery-0.png",
-    "alt": "Ipad search results page",
+    "alt": "iPad search results page",
     "description": "Designing Rightmove’s first iPad app with map search, browsable property listings and detailed floorplans."
   },
   "draw-a-search": {
@@ -106,7 +106,7 @@
   },
   "homepage-redesign": {
     "src": "/assets/homepage-redesign-gallery-0.png",
-    "alt": "Home page redesign",
+    "alt": "Homepage redesign",
     "description": "Redesigning lastminute.com’s homepage and navigation to make travel search clearer and reduce visual clutter."
   }
 }
