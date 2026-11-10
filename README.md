@@ -11,7 +11,7 @@ npm ci
 npm run dev
 ```
 
-Open http://localhost:3000. Restart the server after editing to rebuild the site.
+Open http://localhost:3003. Restart the server after editing to rebuild the site.
 
 ## Build
 

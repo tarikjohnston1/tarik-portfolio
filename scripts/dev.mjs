@@ -6,5 +6,5 @@ const built=spawnSync(process.execPath,['scripts/build.mjs'],{stdio:'inherit'});
 if(built.status)process.exit(built.status);
 const root=resolve('dist');
 const types={'.html':'text/html','.js':'text/javascript','.css':'text/css','.png':'image/png','.jpg':'image/jpeg','.svg':'image/svg+xml','.woff2':'font/woff2'};
-const port=Number(process.env.PORT||3000);
+const port=Number(process.env.PORT||3003);
 createServer(async(req,res)=>{try{let file=resolve(root,'.'+decodeURIComponent(new URL(req.url,'http://localhost').pathname));if(!file.startsWith(root+sep)&&file!==root){res.writeHead(403);res.end();return;}if((await stat(file)).isDirectory())file=resolve(file,'index.html');const body=await readFile(file);res.writeHead(200,{'Content-Type':types[extname(file)]||'application/octet-stream','Cache-Control':'no-cache'});res.end(body);}catch{res.writeHead(404);res.end('Page not found');}}).listen(port,'127.0.0.1',()=>console.log(`Portfolio running at http://localhost:${port}`));
