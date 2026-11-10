@@ -128,3 +128,7 @@ a,.rt-Link,.project-card>.rt-Text:last-child,.case-gallery .gallery-item .screen
 .organisations{margin-top:24px}
 .organisations>.eyebrow{font-size:16px;line-height:1.5}
 @media(max-width:640px){.intro .hero-title{margin-bottom:16px}.intro p.rt-Text{font-size:17px;line-height:1.55}.organisations{margin-top:24px}}
+
+/* Keep the evidence visible in the BTMS narrative. */
+.btms-story .inline-examples .screen-trigger img{height:auto;max-height:560px;object-fit:contain;width:100%;}
+.btms-story .inline-examples .screen-trigger{height:auto;}

@@ -137,30 +137,67 @@
       {
         "id": "overview",
         "title": "Overview",
-        "html": "<p>At DEFRA, I was the <strong>Lead interaction designer</strong> on the <strong>Border Trade Matching Service (BTMS)</strong> — a new internal service designed to replace a legacy system and support border and operational staff in making accurate, time-critical decisions on goods entering the UK from the EU and rest of the world.</p><p>BTMS provides a <strong>search-led interface</strong> that allows users to find consignments using a range of reference numbers and view matched data from <strong>HMRC’s Customs Declaration Service (CDS)</strong> and <strong>IPAFFS</strong> in one place. This enables staff to quickly identify mismatches, understand why goods may be held, and resolve issues to keep the border flowing.</p><p>The outcome was a service that made it easier for border teams to identify issues, understand what had happened, and take the right action. </p>"
+        "html": "<p>I led the interaction design for BTMS, an internal DEFRA service that brings customs declarations and import notifications together. It helps border teams find consignments, identify discrepancies and understand what action to take.</p>"
       },
       {
-        "id": "delivered",
-        "title": "What was delivered",
-        "html": "<ul>\n<li>Designed a <strong>search-led service</strong> allowing users to find consignments using multiple reference types</li>\n<li>Created <strong>clear, scannable results views</strong> that bring together matched CDS and IPAFFS data in a single interface</li>\n<li>Designed a <strong>consignment timeline</strong> to show key events, decisions, and status changes over time</li>\n<li>Introduced <strong>visual indicators and filters</strong> to help users quickly identify discrepancies and prioritise action</li>\n<li>Designed the <strong>BTMS reporting service</strong>, using visual graphs to show trends and operational data over time</li>\n<li>Improved <strong>system messaging and error clarity</strong> to support faster issue resolution</li>\n<li>Ensured <strong>accessibility and GOV.UK compliance</strong>, applying WCAG-aligned patterns and accessible data visualisation throughout</li>\n</ul>"
+        "id": "challenge",
+        "title": "The challenge",
+        "html": "<p>Border and operational staff need to make time-critical decisions about goods entering the UK. To understand a consignment, they need to compare records from HMRC’s Customs Declaration Service (CDS) with import notifications from IPAFFS.</p><p>The design challenge was to bring these records into one clear interface, while making mismatches, inspection outcomes and changes over time easy to understand. BTMS was designed to replace a legacy internal system.</p>"
+      },
+      {
+        "id": "search-and-matching",
+        "title": "Finding and comparing records",
+        "html": "<p>I designed a search-led interface that supports different consignment reference numbers. This gives staff a route into the same information using the reference they have available.</p><p>The results bring customs declarations and IPAFFS notifications into one view, helping staff compare linked records without losing the context of the consignment.</p>",
+        "imageIndices": [
+          1
+        ]
+      },
+      {
+        "id": "discrepancies",
+        "title": "Making discrepancies visible",
+        "html": "<p>I designed scannable results with visual indicators and filters to help staff identify discrepancies and prioritise action. The interface shows matching records alongside their status and decisions, so staff can investigate where information does not align.</p><p>I also worked on clearer system messages and errors to help users understand issues and what to do next.</p>",
+        "imageIndices": [
+          0
+        ]
+      },
+      {
+        "id": "timeline",
+        "title": "Understanding what happened",
+        "html": "<p>A consignment’s current status is only part of the picture. I designed a timeline showing key events, decisions and status changes over time, giving staff a way to trace what happened to a consignment.</p>",
+        "imageIndices": [
+          3
+        ]
+      },
+      {
+        "id": "wider-contribution",
+        "title": "My wider contribution",
+        "html": "<p>As lead interaction designer, my work covered the search experience, matched results, consignment timeline and interactive prototypes. I also designed reporting views to show operational data and trends over time.</p><p>Across these areas, I applied GOV.UK design patterns and accessibility principles to the interactions, messaging and data visualisation.</p>",
+        "imageIndices": [
+          2
+        ]
+      },
+      {
+        "id": "result",
+        "title": "The resulting service",
+        "html": "<p>The resulting design brings search, comparison and consignment history into one service. Staff can find linked records, investigate discrepancies and trace the events behind a decision.</p><p>The walkthrough below shows how these parts of the service fit together.</p>"
       }
     ],
     "images": [
       {
         "src": "/assets/btms-gallery-0.png",
-        "caption": "Search results showing a problem"
+        "caption": "Matched records highlighting discrepancies between customs declarations and import notifications"
       },
       {
         "src": "/assets/btms-gallery-1.png",
-        "caption": "Search by different consignment references"
+        "caption": "Linked customs declarations found using a consignment reference"
       },
       {
         "src": "/assets/btms-gallery-2.png",
-        "caption": "Reporting data"
+        "caption": "Reporting views showing operational data and trends over time"
       },
       {
         "src": "/assets/btms-gallery-3.png",
-        "caption": "Consignment timeline"
+        "caption": "A consignment timeline showing events, decisions and status changes"
       }
     ],
     "videos": [
